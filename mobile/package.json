@@ -14,16 +14,16 @@
     "react": "16.9.0",
     "react-native": "0.62.3",
     "react-native-gesture-handler": "^1.5.1",
-    "react-native-reanimated": "^1.4.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-screens": "^1.0.0-alpha.23",
     "react-navigation": "^4.0.10",
     "react-navigation-stack": "^1.10.3",
     "styled-components": "^4.4.1",
-    "yarn": "^1.22.0"
+    "yarn": "^1.22.13"
   },
   "devDependencies": {
     "@babel/core": "^7.7.4",
-    "@babel/runtime": "^7.7.4",
+    "@babel/runtime": "^7.26.10",
     "@react-native-community/eslint-config": "^0.0.5",
     "@testing-library/jest-native": "^3.0.3",
     "@testing-library/react-native": "^5.0.1",
